@@ -84,7 +84,7 @@ def answer_choices():
     return answers
 
 
-#  Collects bill total from user, and removes '$' if user inputs it
+# Collects bill total from user, and removes '$' if user inputs it
 if __name__ == "__main__":
     bill_total()
 
