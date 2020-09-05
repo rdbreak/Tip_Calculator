@@ -8,7 +8,7 @@ __pycache__/
 !/.coverage
 # C extensions
 *.so
-
+*.sh
 # Distribution / packaging
 .Python
 build/

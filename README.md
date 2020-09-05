@@ -1,7 +1,7 @@
 # Tip-Calculator
 [![Build Status](https://travis-ci.com/rdbreak/Tip_Calulator.svg?branch=master)](https://travis-ci.com/rdbreak/Tip_Calulator)
 [![codecov](https://codecov.io/gh/rdbreak/Tip_Calulator/branch/master/graph/badge.svg?token=EAT0GQXJZF)](https://codecov.io/gh/rdbreak/Tip_Calulator)
-## This is a simple tip calulator 
+## This is a simple tip calculator 
 Enter your bill total and it will ask how generous you want to be with your tipping. Based on your choice, it will give you the tip amount and bill total.
 
 ```
