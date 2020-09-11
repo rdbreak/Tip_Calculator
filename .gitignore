@@ -6,6 +6,7 @@ __pycache__/
 !/.travis.yml
 !/.gitignore
 !/.coverage
+!/.deepsource.toml
 # C extensions
 *.so
 *.sh
