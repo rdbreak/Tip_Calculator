@@ -1,7 +1,7 @@
 version = 1
 
 [[analyzers]]
-name = "autopep8"
+name = "python"
 enabled = true
 dependency_file_paths = [
   "requirements.txt"
